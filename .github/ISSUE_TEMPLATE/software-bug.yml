@@ -1,0 +1,26 @@
+name: Reference-code problem
+description: Report a reproducible bug or inconsistency in the educational code.
+title: "[Code] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "This repository contains educational mock code, not a production AI safety enforcement system. Do not disclose secrets or private information."
+  - type: input
+    id: python
+    attributes:
+      label: Python version / operating system
+      placeholder: "Python 3.11, Windows 11"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Include minimal inputs and commands; do not paste credentials.
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: Actual behavior and expected behavior
+    validations:
+      required: true
