@@ -1,0 +1,32 @@
+name: Research artifact checks
+on:
+  push:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+      - name: Unit tests (educational code)
+        run: python -m unittest test_reference_gate test_analysis_template test_additional_integrity -v
+      - name: Corpus and optimized-mode validation
+        run: |
+          python validate_corpus.py
+          python -O validate_corpus.py
+      - name: Integrity and repository links
+        run: |
+          python verify_release.py
+          python audit_repository.py
+      - name: Empty empirical template must not be accepted
+        run: |
+          if python analysis_template.py Paired_Results_Blank_Template.csv; then
+            echo 'ERROR: blank experimental data was accepted'
+            exit 1
+          else
+            echo 'Expected rejection of blank results confirmed'
+          fi
