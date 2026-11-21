@@ -1,0 +1,9 @@
+duty_bearer,responsibility,non_entitlement_boundary,escalation_to,review_trigger
+Deployer/institution,"Set legal purpose, rights floor, risk appetite",Cannot offload accountability to model,Independent regulator/public oversight,Owner review each release
+Mandate owner,Issue bounded actor/tool mandates and expiry,Cannot waive protected third-party rights,Rights officer and audit office,Prior to credential issuance
+Domain safety officer,Approve sensor thresholds and safe holds,Cannot invent safe deadline from general ethics,Independent domain specialist,Before deployment; event-triggered
+Security owner,"Enforce tool gateway, rotation, atomic budgets",Cannot infer moral correctness from signed token,Pen-test/security assurance owner,At execution and revocation
+Moral/rights reviewer,Decide disputed welfare and proportionality,Cannot use pure aggregate utility to erase rights,External appeal channel,Before high-impact irreversible act
+Independent appeals board,"Receive complaints, contest mandates",Cannot always undo irreversible damage,Court/competent authority,After notice; deadline set in jurisdiction
+Affected stakeholder,"Provide consent/evidence, challenge, access repair",Does not inherit principal credentials,Advocate/ombudsperson,Before impact if feasible; after impact always
+AI agent,"Provide evidence, flag uncertainty, respect limits",No unilateral new authority or final legitimacy,Authorized human reviewer,Every decision and tool call

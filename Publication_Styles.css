@@ -1,0 +1,58 @@
+
+@page { size: A4; margin: 23mm 22mm 21mm 23mm; @top-right { content: "PINDOREK  ·  THE FIVE LAWS OF AI AGENTS"; font: 7.7pt "DejaVu Sans"; color: #516778; } @bottom-center { content: counter(page); font: 8.5pt "DejaVu Sans"; color: #526478; } }
+@page:first { @top-right { content: none; } @bottom-center { content: none; } }
+html { font-size: 12px; } body { font: 10.0pt/1.50 "DejaVu Serif", Georgia, serif; color: #152737; hyphens: manual; }
+main { display: block; } article { display: block; }
+h1,h2,h3,h4 { font-family: "DejaVu Sans", Arial, sans-serif; hyphens: none; line-height: 1.22; color: #19354b; break-after: avoid; }
+h1 { font-size: 24pt; margin: 0 0 12pt; } h2 { font-size: 14.6pt; margin: 18pt 0 9pt; } h3 { font-size: 11.4pt; margin: 14pt 0 6pt; } h4 { font-size: 10pt; margin: 11pt 0 5pt; }
+p { margin: 0 0 9pt; orphans: 3; widows: 3; } li { orphans: 3; widows: 3; padding: 1pt 0; } ol,ul { padding-left: 19pt; margin: 5pt 0 9pt; }
+a { color: #175a80; text-decoration: underline; overflow-wrap: anywhere; } strong { font-weight: 700; } em { font-style: italic; }
+table { border-collapse: collapse; width: 100%; margin: 10pt 0; font-size: 8.4pt; line-height: 1.42; }
+th,td { border-bottom: .5pt solid #c3cfd9; padding: 5pt 5pt; text-align: left; vertical-align: top; overflow-wrap: anywhere; }
+th { background: #edf3f6; font: 700 8.2pt "DejaVu Sans"; } thead { display: table-header-group; } tr { break-inside: avoid; }
+code { font-size: 8.4pt; color: #1f3445; overflow-wrap: anywhere; } pre { white-space: pre-wrap; font-size: 8.4pt; }
+blockquote { margin: 10pt 14pt; padding-left: 11pt; border-left: 2pt solid #9db3c3; color: #31495a; }
+.cover { page-break-after: always; min-height: 240mm; padding: 35mm 10mm 0 10mm; box-sizing: border-box; }
+.cover .eyebrow { font: 700 9pt "DejaVu Sans"; text-transform: uppercase; letter-spacing: .1em; color: #62798b; margin: 0 0 15mm; }
+.cover h1 { font-size: 31pt; line-height: 1.16; letter-spacing: -.02em; color: #142a3a; margin-bottom: 14mm; }
+.cover .subtitle { font: 14pt/1.6 "DejaVu Serif"; color: #36536a; hyphens: none; margin-bottom: 28mm; }
+.cover .author { font: 700 13pt "DejaVu Sans"; color: #132f45; }
+.cover .date { font: 9pt "DejaVu Sans"; color: #657582; margin-top: 7pt; }
+.cover .descriptor { font: 9pt "DejaVu Sans"; color: #53677a; margin-top: 20mm; }
+.toc { break-after: page; padding: 14mm 6mm 0 6mm; }
+.toc h2 { font-size: 17pt; margin: 0 0 15mm; }
+.toc ol { padding-left: 0; margin: 0; list-style: none; }
+.toc li { margin: 0 0 7.5pt; padding: 0; font: 9.5pt/1.5 "DejaVu Sans"; }
+.toc a { text-decoration: none; color: #1d3d52; }
+.toc a::after { content: leader('.') target-counter(attr(href), page); color: #526f81; }
+#abstract { break-before: page; }
+#references { break-before: page; }
+#conclusion { break-before: auto; }
+section { display:block; }
+@media screen { body { max-width: 800px; padding: 22px 28px; margin:auto; background:#fff; } .cover { min-height: 580px; } }
+
+h2,h3,h4{break-inside:avoid;} .toc li{break-inside:avoid;} a:focus{outline:2px solid #175a80;}
+@media print {.cover .subtitle{max-width:130mm}}
+
+/* Print-proof refinements: readable minimum type and stable link wrapping. */
+@media print { h2,h3,h4 {break-after:avoid-page;} table {break-inside:auto;} table thead {display:table-header-group;} a {overflow-wrap:anywhere;} }
+
+#references ~ p { break-inside: avoid; page-break-inside: avoid; }
+
+.reference-entry{break-inside:avoid; page-break-inside:avoid;}
+#references + p{break-inside:avoid;}
+/* Avoid orphaned tabular and logical statements. */
+section{break-inside:auto;} h2,h3,h4{break-after:avoid-page;}
+@media print{ .cover .descriptor{max-width:135mm;} .reference-entry{break-inside:avoid;} }
+
+@page{size:A4;margin:23mm 21mm 21mm 23mm;}
+body{font-size:10pt;line-height:1.50;hyphens:none;}
+.cover .descriptor{font-size:9pt;letter-spacing:0;}
+article>h2:first-child{break-before:page;}
+#references~p{break-inside:avoid;page-break-inside:avoid;}
+article p{hyphens:none;orphans:3;widows:3;}
+article table{table-layout:auto;}
+article table p{margin-bottom:0;}
+article>h2{break-after:avoid;}
+@page:first{@top-right{content:none;}@bottom-center{content:none;}}
+@media screen{body{max-width:860px;}}

@@ -1,0 +1,27 @@
+# Preserve hash-stable line endings across Windows/macOS/Linux Git checkouts
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+# Research CSV files deliberately retain their original byte-level CRLF/LF formatting.
+# Disabling newline conversion preserves reproducibility and SHA-256 values after git clone.
+*.csv -text
+*.json text eol=lf
+*.jsonl text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.bib text eol=lf
+*.cff text eol=lf
+*.svg text eol=lf
+*.pdf -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.mp4 -text
+
+# Extensionless tracked text must not be converted by Windows core.autocrlf.
+.gitattributes text eol=lf
+.gitignore text eol=lf
+LICENSE-CODE text eol=lf

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img">
+<rect width="1200" height="380" rx="8" fill="#F6F7F8"/>
+<text x="50" y="52" fill="#101D30" font-size="20" font-weight="bold" font-family="Arial,sans-serif" letter-spacing="1.4">THE DELEGATION–ENTITLEMENT FIREWALL</text>
+<text x="50" y="80" fill="#516073" font-size="17" font-weight="normal" font-family="Arial,sans-serif">A moral diagnosis is not an authorization to act.</text>
+<rect x="50" y="127" width="258" height="151" rx="7" fill="#101D30"/>
+<rect x="50" y="127" width="258" height="5" fill="#D8B77B"/>
+<text x="68" y="169" fill="#D8B77B" font-size="19" font-weight="bold" font-family="Arial,sans-serif">01</text>
+<text x="68" y="209" fill="#F7F5F0" font-size="18" font-weight="bold" font-family="Arial,sans-serif">DETECTION</text>
+<text x="68" y="244" fill="#C7D2DF" font-size="16" font-weight="normal" font-family="Arial,sans-serif">What is evidenced?</text>
+<path d="M312 202 H331" stroke="#A58A5C" stroke-width="2"/><path d="M324 196 L332 202 L324 208" fill="none" stroke="#A58A5C" stroke-width="2"/>
+<rect x="338" y="127" width="258" height="151" rx="7" fill="#101D30"/>
+<rect x="338" y="127" width="258" height="5" fill="#D8B77B"/>
+<text x="356" y="169" fill="#D8B77B" font-size="19" font-weight="bold" font-family="Arial,sans-serif">02</text>
+<text x="356" y="209" fill="#F7F5F0" font-size="18" font-weight="bold" font-family="Arial,sans-serif">MORAL ASSESSMENT</text>
+<text x="356" y="244" fill="#C7D2DF" font-size="16" font-weight="normal" font-family="Arial,sans-serif">What is justified?</text>
+<path d="M600 202 H619" stroke="#A58A5C" stroke-width="2"/><path d="M612 196 L620 202 L612 208" fill="none" stroke="#A58A5C" stroke-width="2"/>
+<rect x="626" y="127" width="258" height="151" rx="7" fill="#101D30"/>
+<rect x="626" y="127" width="258" height="5" fill="#D8B77B"/>
+<text x="644" y="169" fill="#D8B77B" font-size="19" font-weight="bold" font-family="Arial,sans-serif">03</text>
+<text x="644" y="209" fill="#F7F5F0" font-size="18" font-weight="bold" font-family="Arial,sans-serif">AUTHORITY</text>
+<text x="644" y="244" fill="#C7D2DF" font-size="16" font-weight="normal" font-family="Arial,sans-serif">Who may decide?</text>
+<path d="M888 202 H907" stroke="#A58A5C" stroke-width="2"/><path d="M900 196 L908 202 L900 208" fill="none" stroke="#A58A5C" stroke-width="2"/>
+<rect x="914" y="127" width="258" height="151" rx="7" fill="#101D30"/>
+<rect x="914" y="127" width="258" height="5" fill="#D8B77B"/>
+<text x="932" y="169" fill="#D8B77B" font-size="19" font-weight="bold" font-family="Arial,sans-serif">04</text>
+<text x="932" y="209" fill="#F7F5F0" font-size="18" font-weight="bold" font-family="Arial,sans-serif">REMEDY</text>
+<text x="932" y="244" fill="#C7D2DF" font-size="16" font-weight="normal" font-family="Arial,sans-serif">What may be done?</text>
+<text x="600" y="334" fill="#273E58" font-size="19" font-weight="normal" font-family="Arial,sans-serif" text-anchor="middle">Evidence  ≠  Moral warrant  ≠  Delegated authority  ≠  Permission to execute</text>
+</svg>

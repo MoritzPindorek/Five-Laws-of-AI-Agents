@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite the Zenodo version of record using the DOI below."
+authors:
+  - family-names: Pindorek
+    given-names: Moritz
+title: "The Five Laws of AI Agents: A Normative Framework for Sentient Welfare, Non-Exploitation, Corrigibility, and Civilizational Stewardship"
+version: "1.0.0"
+date-released: 2026-11-21
+doi: 10.5281/zenodo.24417028
+url: https://zenodo.org/records/24417028
+abstract: "Independent, non-peer-reviewed philosophical research preprint with synthetic cases, prospective evaluation design, and educational reference code; no independent empirical superiority demonstrated. Manuscript edition dated 11 November 2026."
+keywords:
+  - agentic AI
+  - non-entitlement
+  - exploitation
+  - delegated authority
+  - corrigibility
+  - non-domination
+  - multi-agent governance
+  - research reproducibility
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: Pindorek
+      given-names: Moritz
+  title: "The Five Laws of AI Agents: A Normative Framework for Sentient Welfare, Non-Exploitation, Corrigibility, and Civilizational Stewardship"
+  publisher: Zenodo
+  year: 2026
+  version: "1.0.0"
+  doi: 10.5281/zenodo.24417028
+  url: https://doi.org/10.5281/zenodo.24417028

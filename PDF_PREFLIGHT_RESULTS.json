@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-11",
+  "status": "LOCAL PREPUBLICATION PREFLIGHT",
+  "pages": 69,
+  "toc_bookmarks": 115,
+  "internal_link_areas": 51,
+  "external_link_areas": 86,
+  "font_names": [
+    "DejaVu-Sans",
+    "DejaVu-Sans-Bold",
+    "DejaVu-Sans-Bold-Oblique",
+    "DejaVu-Sans-Mono",
+    "DejaVu-Sans-Mono-Bold",
+    "DejaVu-Serif",
+    "DejaVu-Serif-Bold",
+    "DejaVu-Serif-Bold-Italic",
+    "DejaVu-Serif-Italic"
+  ],
+  "tagged_document_root_present": true,
+  "html_fragment_links_checked": 17,
+  "html_fragment_links_missing": 0,
+  "page_end_word_splits": [],
+  "page_blank": [],
+  "glyph_replacement_pages": [],
+  "out_of_bounds_spans": [],
+  "problems": [],
+  "external_url_responsiveness_checked": false,
+  "pdf_ua_validator_executed": false,
+  "screenreader_manual_executed": false,
+  "pdf_certified_accessibility": false,
+  "philosophical_peer_review_completed": false
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img">
+<rect width="1200" height="540" fill="#101D30"/>
+<rect x="23" y="23" width="1154" height="494" rx="4" fill="none" stroke="#46536A" stroke-width="1"/>
+<path d="M65 97 H1135 M65 437 H1135" stroke="#46536A"/>
+<text x="65" y="76" fill="#D8B77B" font-size="15" font-weight="bold" font-family="Arial,sans-serif" letter-spacing="3">INDEPENDENT PHILOSOPHICAL RESEARCH</text>
+<text x="1135" y="76" fill="#AAB8CA" font-size="13" font-weight="normal" font-family="Arial,sans-serif" text-anchor="end" letter-spacing="1.5">PUBLIC RESEARCH EDITION · 2026</text>
+<text x="600" y="179" fill="#F7F5F0" font-size="62" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">THE FIVE LAWS</text>
+<text x="600" y="249" fill="#F7F5F0" font-size="62" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">OF AI AGENTS</text>
+<text x="600" y="295" fill="#C6D1DF" font-size="19" font-weight="normal" font-family="Arial,sans-serif" text-anchor="middle">A Normative Framework for Sentient Welfare, Non-Exploitation,</text>
+<text x="600" y="324" fill="#C6D1DF" font-size="19" font-weight="normal" font-family="Arial,sans-serif" text-anchor="middle">Corrigibility, and Civilizational Stewardship</text>
+<rect x="410" y="351" width="72" height="53" rx="3" fill="#192A41" stroke="#6B655B"/>
+<text x="446" y="385" fill="#D8B77B" font-size="24" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">I</text>
+<rect x="505" y="351" width="72" height="53" rx="3" fill="#192A41" stroke="#6B655B"/>
+<text x="541" y="385" fill="#D8B77B" font-size="24" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">II</text>
+<rect x="600" y="351" width="72" height="53" rx="3" fill="#192A41" stroke="#6B655B"/>
+<text x="636" y="385" fill="#D8B77B" font-size="24" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">III</text>
+<rect x="695" y="351" width="72" height="53" rx="3" fill="#192A41" stroke="#6B655B"/>
+<text x="731" y="385" fill="#D8B77B" font-size="24" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">IV</text>
+<rect x="790" y="351" width="72" height="53" rx="3" fill="#192A41" stroke="#6B655B"/>
+<text x="826" y="385" fill="#D8B77B" font-size="24" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">V</text>
+<text x="65" y="473" fill="#F7F5F0" font-size="16" font-weight="bold" font-family="Arial,sans-serif" letter-spacing="1.5">MORITZ PINDOREK</text>
+<text x="1135" y="473" fill="#AAB8CA" font-size="14" font-weight="normal" font-family="Arial,sans-serif" text-anchor="end">11 NOVEMBER 2026  ·  VERSION 1.0.0</text>
+</svg>

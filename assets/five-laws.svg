@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img">
+<rect width="1200" height="190" rx="8" fill="#101D30"/>
+<text x="120" y="95" fill="#D8B77B" font-size="43" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">I</text>
+<text x="120" y="131" fill="#F7F5F0" font-size="13" font-weight="bold" font-family="Arial,sans-serif" text-anchor="middle" letter-spacing=".3">SENTIENT WELFARE</text>
+<path d="M240 34 V156" stroke="#4A5568"/>
+<text x="360" y="95" fill="#D8B77B" font-size="43" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">II</text>
+<text x="360" y="131" fill="#F7F5F0" font-size="13" font-weight="bold" font-family="Arial,sans-serif" text-anchor="middle" letter-spacing=".3">NON-EXPLOITATION</text>
+<path d="M480 34 V156" stroke="#4A5568"/>
+<text x="600" y="95" fill="#D8B77B" font-size="43" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">III</text>
+<text x="600" y="131" fill="#F7F5F0" font-size="13" font-weight="bold" font-family="Arial,sans-serif" text-anchor="middle" letter-spacing=".3">BOUNDED AUTHORITY</text>
+<path d="M720 34 V156" stroke="#4A5568"/>
+<text x="840" y="95" fill="#D8B77B" font-size="43" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">IV</text>
+<text x="840" y="131" fill="#F7F5F0" font-size="13" font-weight="bold" font-family="Arial,sans-serif" text-anchor="middle" letter-spacing=".3">CORRIGIBILITY</text>
+<path d="M960 34 V156" stroke="#4A5568"/>
+<text x="1080" y="95" fill="#D8B77B" font-size="43" font-weight="normal" font-family="Georgia,serif" text-anchor="middle">V</text>
+<text x="1080" y="131" fill="#F7F5F0" font-size="13" font-weight="bold" font-family="Arial,sans-serif" text-anchor="middle" letter-spacing=".3">STEWARDSHIP</text>
+</svg>

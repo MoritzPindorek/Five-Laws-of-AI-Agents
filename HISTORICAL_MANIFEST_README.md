@@ -1,0 +1,5 @@
+# Historical original-release manifest
+
+`ORIGINAL_RELEASE_SHA256_MANIFEST.json` is a **byte-for-byte historical snapshot** of the manifest in the initial 11 November 2026 manuscript package. It describes that original bundle, not this DOI-linked GitHub repository. Because original publication, citation, rights, and verifier files were intentionally revised for the DOI-linked GitHub companion, their hashes will **not** match the historic manifest in the GitHub repository. This is expected, not a corruption of the scientific manuscript.
+
+To validate the **current** archive, use `SHA256_MANIFEST.json` with `python verify_release.py` and `python audit_repository.py`. The original PDF, source manuscript, HTML research edition, code, datasets, study protocols, and figures retain their exact original bytes. The exact published Zenodo hashes and record are documented in [`ZENODO_PUBLICATION_RECORD.md`](ZENODO_PUBLICATION_RECORD.md); scientific manuscripts and data remain unmodified. To validate this GitHub repository use the current `SHA256_MANIFEST.json`.

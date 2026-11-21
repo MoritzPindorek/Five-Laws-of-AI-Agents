@@ -1,0 +1,31 @@
+{
+  "file": "five_laws_explainer.mp4",
+  "duration_seconds": 137.5,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "audio_stream_present": true,
+  "embedded_audio_provenance": "not supplied",
+  "embedded_track_title": "not present in file metadata",
+  "composer": "not present in file metadata",
+  "music_license": "Not independently verified from underlying creation records",
+  "copyright_clearance": "Independent legal/music fingerprint clearance not established",
+  "review_method": "ffprobe container/stream metadata; sampled still frames at 20-second intervals; no licensed music fingerprint service or creator project/source files available",
+  "visual_observations": "dark technical illustration, gold accents, text about five laws and D-M-A-R; sampled frames alone do not establish image rights or textual accuracy of every frame",
+  "required_evidence": [
+    "Creator authorization for public release and reuse rights for any imported assets",
+    "Confirmation of soundtrack origin and applicable distribution terms",
+    "Optional independent rights/music fingerprint review"
+  ],
+  "decision": "Public YouTube link provided by creator; GitHub package contains link and preview, no MP4. Embedded media and soundtrack rights not independently certified.",
+  "reported_provenance_confidence": "Creator report; original generation project or model logs not yet inspected",
+  "music_identification": "No independent fingerprint match performed; copyright-free status cannot be concluded from metadata or platform alone",
+  "status": "Media provenance described generically as AI-generated; third-party rights cannot be conclusively certified by stream metadata.",
+  "creation_method_reported_by_creator": "AI-generated video and soundtrack; independent generation records not inspected",
+  "requested_creator_evidence": "Creation records and relevant usage terms; confirmation whether soundtrack or visual elements were imported",
+  "publication_context": "Linked from GitHub companion to DOI 10.5281/zenodo.24417028; not included in archived Zenodo or GitHub source ZIP",
+  "creator_report": "AI-generated video and soundtrack",
+  "source_file": "five_laws_explainer.mp4 (creator-supplied source; excluded from GitHub repository ZIP)",
+  "youtube_url": "https://www.youtube.com/watch?v=ewEHGMFizdo",
+  "github_repository_has_mp4": false,
+  "github_repository_has_preview": true
+}

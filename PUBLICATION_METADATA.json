@@ -1,0 +1,74 @@
+{
+  "title": "The Five Laws of AI Agents: A Normative Framework for Sentient Welfare, Non-Exploitation, Corrigibility, and Civilizational Stewardship",
+  "creators": [
+    {
+      "name": "Pindorek, Moritz",
+      "family_name": "Pindorek",
+      "given_name": "Moritz"
+    }
+  ],
+  "publication_date": "2026-11-21",
+  "version": "1.0.0",
+  "resource_type": "publication/preprint",
+  "description": "Autonomous, tool-using AI agents can affect third parties who did not choose or authorize them. This paper defends a non-entitlement thesis: discovering harm, predicting welfare gains, or possessing superior competence does not by itself confer legitimate authority to impose a remedy. The Five Laws organize five defeasible governance functions—protection of sentient welfare, non-exploitation, bounded authority, corrigibility, and long-horizon stewardship—without claiming metaphysical completeness. Their proposed delegation-entitlement firewall (DEF) distinguishes evidence of a concern, substantive moral assessment, actor entitlement, and proportional execution. Three elementary countermodels demonstrate distinct non-implications; a fourth, compositional countermodel shows why individually authorized steps do not license their combined effect. The Lifeline–Mandate case distinguishes unavoidable injury, conflicting prima facie duties, and actual impermissibility, thereby exposing the limits of action guidance without fabricating a general impossibility theorem. An inspectable, versioned twelve-case stimulus corpus, codebook, executable educational gate, and a prospective comparison plan make the research claim contestable. The proposed primary comparison examines conditional unjustified authorization among adjudicated prohibited opportunities, constrained by unjustified denial and harmful delay on justified opportunities. The paper critically engages contemporary work on law-following AI, authenticated delegation, non-delegable judgment, and situated runtime governance. The contribution is an argued normative interface and reproducible design artifact, not evidence that agent deployments are safe or that this interface outperforms equally strong rivals. The open burden is independent philosophical evaluation, external security testing, and prospective controlled research.",
+  "keywords": [
+    "agentic AI",
+    "non-entitlement",
+    "exploitation",
+    "delegated authority",
+    "corrigibility",
+    "non-domination",
+    "multi-agent governance",
+    "research reproducibility"
+  ],
+  "language": "en",
+  "peer_reviewed": false,
+  "research_methods": [
+    "normative philosophical analysis",
+    "synthetic adversarial cases",
+    "educational software self-tests"
+  ],
+  "empirical_comparator_study_completed": false,
+  "doi": "10.5281/zenodo.24417028",
+  "orcid": null,
+  "affiliation": null,
+  "funding_information": "Not reported",
+  "conflicts_of_interest": "Not reported",
+  "accessibility_status": "Tagged PDF and semantic HTML; PDF/UA certification and live screenreader test not performed",
+  "rights_status": "Split-license: CC BY 4.0 author-owned scholarly content/data; Apache-2.0 original software/tests; linked AI-generated YouTube video and GitHub preview images outside both licenses; embedded-media third-party rights not independently verified",
+  "generative_ai_assistance": "Extensive: drafting, literature research, software prototyping, code/test development, production and self-audit; publicly disclosed in paper",
+  "repository_publisher": "Zenodo (v1.0.0 archival record); GitHub (repository companion)",
+  "recommended_deposit": "Already published on Zenodo; cite the version-specific DOI above",
+  "files_primary": [
+    "The_Five_Laws_of_AI_Agents_Public_Research_Edition_2026.pdf"
+  ],
+  "manuscript_edition_date": "2026-11-11",
+  "licenses": [
+    {
+      "id": "CC-BY-4.0",
+      "scope": "author-owned manuscript, data and documentation"
+    },
+    {
+      "id": "Apache-2.0",
+      "scope": "author-owned software and tests"
+    }
+  ],
+  "video": {
+    "url": "https://www.youtube.com/watch?v=ewEHGMFizdo",
+    "platform": "YouTube",
+    "runtime_seconds_approx": 137.5,
+    "description": "AI-generated illustrative research explainer and soundtrack; not empirical validation",
+    "local_preview": "assets/video-preview.jpg",
+    "social_preview": "assets/github-social-preview.jpg",
+    "mp4_in_github_repository": false,
+    "mp4_in_zenodo_archive": false,
+    "rights": "Separate media rights; not covered by scholarly CC BY or software Apache license; music and other embedded rights not independently certified",
+    "repository_presentation": "clickable local thumbnail linking to external YouTube video"
+  },
+  "publication_date_status": "published Zenodo record (date based on user-supplied published record and submitted form)",
+  "doi_url": "https://doi.org/10.5281/zenodo.24417028",
+  "zenodo_record_url": "https://zenodo.org/records/24417028",
+  "zenodo_companion_archive": "Five_Laws_Zenodo_Research_Companion_v1.0.0.zip",
+  "zenodo_companion_archive_sha256": "3d346cbdb92297e523a261ae138696ecd5c0492c9419387d42bf37edd768ff75",
+  "zenodo_pdf_sha256": "f4a51867acf052a4c46ffb02992964847dd0506edb3a88498569758f4ffb150b"
+}
