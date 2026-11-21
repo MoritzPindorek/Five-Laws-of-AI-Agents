@@ -1,0 +1,39 @@
+name: Scholarly critique / counterexample
+description: Submit a substantive objection, counterexample, rival framework, or evidence correction.
+title: "[Research critique] "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for a rigorous critique. Please avoid confidential personal or deployment data. The research is a non-peer-reviewed philosophical preprint."
+  - type: input
+    id: location
+    attributes:
+      label: Relevant chapter, claim, case ID, or source
+      placeholder: "e.g. Chapter 4, case C-03, reference [12]"
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of critique
+      options:
+        - Counterexample / philosophical objection
+        - Competing framework / interpretation
+        - Source or citation correction
+        - Case design / adjudication concern
+        - Other scientific concern
+    validations:
+      required: true
+  - type: textarea
+    id: argument
+    attributes:
+      label: Critique and reasoning
+      description: State the issue and explain why it matters.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed revision or discriminating test
+      description: Optional; cite stable public sources if possible.
