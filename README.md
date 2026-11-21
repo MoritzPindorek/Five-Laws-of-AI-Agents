@@ -1,6 +1,6 @@
 <div align="center">
 
-![The Five Laws of AI Agents — research cover](assets/research-cover.svg)
+![The Five Laws of AI Agents — research cover, public release 21 November 2026](assets/research-cover.svg)
 
 <br>
 
@@ -8,7 +8,7 @@
 
 [![Edition](https://img.shields.io/badge/EDITION-v1.0.0-14253D?style=flat-square)](#publication-record)
 [![Research status](https://img.shields.io/badge/STATUS-Independent%20%7C%20Not%20Peer%20Reviewed-52667C?style=flat-square)](#research-status-and-limitations)
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24417028.svg)](https://doi.org/10.5281/zenodo.24417028)
+[![Zenodo DOI — 10.5281/zenodo.24417028](assets/zenodo-doi-badge.svg)](https://doi.org/10.5281/zenodo.24417028)
 [![Research video](https://img.shields.io/badge/VIDEO-Watch%20on%20YouTube-786447?style=flat-square)](https://www.youtube.com/watch?v=ewEHGMFizdo)
 [![Publication year](https://img.shields.io/badge/YEAR-2026-14253D?style=flat-square)](#publication-record)
 [![Rights](https://img.shields.io/badge/LICENSE-CC%20BY%204.0%20%2B%20Apache%202.0-786447?style=flat-square)](#rights-and-disclosure)

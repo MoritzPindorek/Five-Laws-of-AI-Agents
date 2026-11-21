@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354" height="28" viewBox="0 0 354 28" role="img" aria-labelledby="title desc">
+<title id="title">Zenodo DOI 10.5281/zenodo.24417028</title>
+<desc id="desc">Official publication DOI, click to open the archived research record.</desc>
+<rect x="0.5" y="0.5" width="353" height="27" rx="4" fill="#14253D" stroke="#62768E"/>
+<path d="M116.5 1H350Q353 1 353 4V24Q353 27 350 27H116.5Z" fill="#D8B77B"/>
+<path d="M116.5 1V27" stroke="#62768E" stroke-width="1"/>
+<text x="58" y="18.2" font-family="Arial, Helvetica, sans-serif" font-size="11.8" font-weight="700" letter-spacing=".55" text-anchor="middle" fill="#F7F5F0">ZENODO DOI</text>
+<text x="235" y="18.2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#101D30">10.5281/zenodo.24417028</text>
+</svg>
